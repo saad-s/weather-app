@@ -5,6 +5,9 @@
 npm install
 ```
 
+### Environment Setup
+create a .env.local and add `VUE_APP_WEATHER_API_KEY` 
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
